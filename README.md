@@ -98,7 +98,7 @@ Each visualization is designed to answer a specific business question.
 ---
 
 ## 👤 Author
-**Abdullah Jaffari**  
+**Abdullah Jaffari Syed**  
 Aspiring Data Analyst | Power BI | Data Visualization  
 
 
